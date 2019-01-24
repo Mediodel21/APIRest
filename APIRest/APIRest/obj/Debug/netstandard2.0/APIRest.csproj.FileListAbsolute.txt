@@ -1,0 +1,14 @@
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\PageLevel2.xaml.g.cs
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.csproj.CoreCompileInputs.cache
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.AssemblyInfoInputs.cache
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.AssemblyInfo.cs
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.dll
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.pdb
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\bin\Debug\netstandard2.0\APIRest.deps.json
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\bin\Debug\netstandard2.0\APIRest.dll
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\bin\Debug\netstandard2.0\APIRest.pdb
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\APIRest.csprojAssemblyReference.cache
+C:\Users\rchinchilla\Documents\Android\APIRest\APIRest\APIRest\obj\Debug\netstandard2.0\PageLevel3.xaml.g.cs

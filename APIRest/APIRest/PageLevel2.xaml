@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="APIRest.PageLevel2" Title="Proyecto Xamarin Cenfotec">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Margin="20">
+
+            <Label Text="Detalle del Post"  
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"  FontSize="Medium"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="UserID:"></Label>
+                <Label Text="{Binding userId}"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="ID:"></Label>
+                <Label x:Name="lblidPost" Text="{Binding id}"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Titulo:"></Label>
+                <Label Text="{Binding title}"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Body:"></Label>
+                <Label Text="{Binding body}"></Label>
+            </StackLayout>
+            <Button x:Name="btnComentario" Text="Comentarios" Clicked="btnComentario_Clicked"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
